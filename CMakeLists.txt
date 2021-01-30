@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.5.0)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-project(vectorclass VERSION 1)
+project(vectorclass1 VERSION 1)
 
 INCLUDE(GNUInstallDirs)
 
